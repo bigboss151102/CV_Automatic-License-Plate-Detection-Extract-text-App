@@ -1,0 +1,1 @@
+# CV_Automatic-License-Plate-Detection-Extract-text-App
